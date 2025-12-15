@@ -1,0 +1,25 @@
+{
+  "name": "mongoose.c",
+  "version": "7.19.0",
+  "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket; Cesanta Software (2010).",
+  "keywords": [
+    "c",
+    "library",
+    "embedded",
+    "web server",
+    "http",
+    "mqtt",
+    "websocket",
+    "tcp/ip"
+  ],
+  "homepage": "https://github.com/nodef/mongoose.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/mongoose.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/mongoose.c.git"
+  },
+  "license": "GPL-2.0-only",
+  "main": "mongoose.h"
+}
